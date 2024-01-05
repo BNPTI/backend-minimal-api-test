@@ -8,7 +8,7 @@ You need to refactor it using clean code best practice criteria. The class shoul
 
 - **Calc() method is too dense**: Make it easier to read.
 - **Remove any ambiguities**: Methods and variables need to be clear an descritives.
-- **Design Pattern**: You can use Extraction, Inversion (when needed) and circuit breaker pattern.
+- **Design Pattern**: You can use Extraction, Inversion (when needed) and Early return pattern.
 - **Get lowest level of identations as possible**: Try to make Calc() function as flat as possible.
 
 ### Unit Tests:
